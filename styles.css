@@ -1,0 +1,38 @@
+body{
+    background-color:lightblue;
+}
+  #Job Experience{
+    background-color:pink;
+    text-align:justify;
+  }
+  h1{
+      color:brown;
+  }
+  h2{
+    color:greenyellow;
+    font-family:'Helvetica';
+    font-size:20px;
+    position:relative;
+  }
+  h3,h4{
+      color: red;
+      font-style:italic;
+      font-size:20px;
+      }
+  p{
+    font-family:time new roman;
+    font-size:20px;
+    } 
+  
+img{
+    float:left;
+    width:400px;
+    border-radius:24px;
+    margin-left:200px;
+    padding-top:10px;
+    flex-direction:column;
+    position:relative;
+}
+.Background{
+    position:relative;
+}
