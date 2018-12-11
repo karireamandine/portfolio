@@ -13,6 +13,7 @@ body{
     font-family:'Helvetica';
     font-size:20px;
     position:relative;
+
   }
   h3,h4{
       color: red;
@@ -28,11 +29,16 @@ img{
     float:left;
     width:400px;
     border-radius:24px;
-    margin-left:200px;
+    
     padding-top:10px;
     flex-direction:column;
     position:relative;
 }
 .Background {
     position:relative;
+}
+.About{
+ margin-left: 20px;
+ display:flex;  
+ flex-direction: column;
 }
